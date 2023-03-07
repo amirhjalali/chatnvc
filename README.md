@@ -1,4 +1,4 @@
-# <CHATNVC>
+# CHATNVC
 
 ## Description
 
